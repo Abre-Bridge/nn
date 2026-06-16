@@ -48,8 +48,8 @@ jobs:
       # 3️⃣ Configure Git
       - name: Configure Git
         run: |
-          git config user.name "psycho237-prog"
-          git config user.email "gregoirelegrandpsycho@gmail.com"
+          git config user.name "Abre-Bridge"
+          git config user.email "abrebridge2628@gmail.com"
 
       # 4️⃣ Commit and push changes using PAT
       - name: Commit and push
@@ -60,4 +60,4 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "docs: update daily dev log"
           git pull --rebase origin main
-          git push https://$PAT_TOKEN@github.com/psycho237-prog/psycho237-prog.git main
+          git push https://$PAT_TOKEN@github.com/Abre-Bridge/nn.git main
