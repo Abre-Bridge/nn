@@ -9,7 +9,7 @@ concurrency:
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # Runs once per day at 12:00 UTC (workflow starts then)
+    - cron: '0 */3 * * *'   # Runs once per day at 12:00 UTC (workflow starts then)
   workflow_dispatch:
 
 jobs:
