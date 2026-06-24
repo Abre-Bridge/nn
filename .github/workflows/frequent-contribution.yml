@@ -12,7 +12,7 @@ concurrency:
 # Triggers: schedule + manual
 on:
   schedule:
-    - cron: '*/45 * * * *'  # every 45 minutes
+    - cron: '*/5 * * * *'  # every 45 minutes
   workflow_dispatch:
 
 jobs:
@@ -53,4 +53,4 @@ jobs:
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "Frequent contribution update"
           git pull --rebase origin main
-          git push https://$PAT_TOKEN@github.com/Abre-Bridge/nn.git main
+          git push https://$PAT_TOKEN@github.com/Abre-Bridge/Abre-Bridge.git main
