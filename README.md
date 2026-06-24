@@ -1,4 +1,4 @@
-# 👨‍💻 Hello, I'm Bridge!
+# Hello, I'm Bridge!
 
 ### 🚀 | PenTester | Full-Stack Developer | Open Source Contributor
 
@@ -17,20 +17,7 @@
 ### 🌟 Recent Innovations
 - **🛡️ Swapster**: A  mobile payment skill monetization platform.
 - **🤖 Tieka**: Get your next home just in a few clicks
----
-
-### 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
+  
 ---
 
 ### 📊 GitHub Stats
