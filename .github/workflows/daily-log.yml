@@ -63,5 +63,4 @@ jobs:
           git commit -m "docs: update daily dev log"
           git pull --rebase origin main
           git push https://$PAT_TOKEN@github.com/Abre-Bridge/Abre-Bridge.git main
-          git push https://$PAT_TOKEN@github.com/Abre-Bridge/skillmatch.git main
-          git push https://$PAT_TOKEN@github.com/Abre-Bridge/tieka.git main
+         
