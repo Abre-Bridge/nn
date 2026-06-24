@@ -51,6 +51,7 @@ jobs:
         run: |
           git add contributions.json
           git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git status
           git commit -m "Frequent contribution update"
           git pull --rebase origin main
           git push https://$PAT_TOKEN@github.com/Abre-Bridge/Abre-Bridge.git main
