@@ -1,24 +1,22 @@
-# 👨‍💻 Hello, I'm Psycho!
+# 👨‍💻 Hello, I'm Bridge!
 
-### 🚀 Founder of [XYBERCLAN](https://github.com/CYBERCLAN237) | AI Architect | Full-Stack Developer | Open Source Contributor
+### 🚀 | PenTester | Full-Stack Developer | Open Source Contributor
 
 ---
 
 ### 🛠️ System Status
 | Component | Status |
 | :--- | :--- |
-| **Brain** | 🧠 Mastering AI RAG Systems & IoT Integration |
+| **Brain** | 🧠 Finding flaws where there ain't |
 | **Coffee Level** | ☕ High-Performance Mode |
-| **Current Project** | 🛡️ [AgriShield](https://github.com/psycho237-prog/AgriShield) - Smart Agricultural Monitoring |
-| **Mood** | 🚀 Ready to Automate the World |
+| **Current Project** | 🛡️ [Swapster](https://github.com/Abre-Bridge/skillmatch) - Mobile job finding and payment platform |
+| **Mood** | 🚀 Make a wish and watch me do the rest|
 
 ---
 
 ### 🌟 Recent Innovations
-- **🛡️ AgriShield**: A comprehensive IoT & AI solution for crop health monitoring, featuring ESP32 integration and real-time alerts.
-- **🤖 Sovereign AI Lab**: Privacy-focused institutional AI with RAG (Retrieval-Augmented Generation) and local LLM deployment.
-- **📱 AttendQR**: A robust, local-first offline QR-based attendance system using PHP and SQLite.
-
+- **🛡️ Swapster**: A  mobile payment skill monetization platform.
+- **🤖 Tieka**: Get your next home just in a few clicks
 ---
 
 ### 🧰 Tech Stack
@@ -47,17 +45,8 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/onana-gregoire-legrand-a18529282">
+  <a href="https://www.linkedin.com/in/abre-bridge-20953b327">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/psych0.Greg">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@psychogreg?si=Ztinu0HtBSMtFztj">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@xyberclan">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
@@ -65,10 +54,10 @@
 
 ### ⌨️ Terminal Command
 ```bash
-$ curl -s https://xyberclan.dev/api/psycho | jq .
+$ echo I'm your Djinn make a wish .
 {
-  "name": "Psycho",
-  "motto": "Empowering the next generation of tech enthusiasts.",
+  "name": "Bridge",
+  "motto": "Your IT magician make a wish",
   "status": "Active"
 }
 ```
